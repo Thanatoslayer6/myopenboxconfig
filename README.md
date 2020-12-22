@@ -16,6 +16,12 @@ Compton, Conky, Surfraw, Tint2
 volumeicon-alsa, clipit, network-manager-gnome
 
 
+# PREVIEW
+
+![2020-12-22-162508_1366x768_scrot](https://user-images.githubusercontent.com/76466992/102870861-961a4380-4478-11eb-8ac1-0c4e0cfe108b.png)
+
+
+
 
 
 
